@@ -9,9 +9,9 @@ export default {
 </script>
 <template>
   <div id="app">
-    <AppHeader/>
+    <AppHeader />
     <div class="container mt-3">
-      <router-view/>
+      <router-view />
     </div>
   </div>
 </template>
